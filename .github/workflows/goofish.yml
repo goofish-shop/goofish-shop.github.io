@@ -22,13 +22,13 @@ jobs:
         run: yarn 
       - name: Build website
         run: yarn build
-       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.4.2
-        with:
-            branch: gh-pages
-            folder: public
-            clean: true
-            single-commit: true
+      - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4.4.2
+      with:
+          branch: gh-pages
+          folder: public
+          clean: true
+          single-commit: true
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
       # - name: Deploy to GitHub Pages
