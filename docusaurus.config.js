@@ -47,6 +47,9 @@ const config = {
           //  editUrl:
           //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        googleTagManager: {
+          containerId: 'G-DTZSGLTWHW',
+        },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -114,6 +117,15 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-DTZSGLTWHW',
+        anonymizeIP: true,
+      },
+    ],
+  ],
 };
 
 module.exports = config;
