@@ -94,7 +94,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '快捷访问',
             items: [
               {
                 label: '教程',
