@@ -56,6 +56,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: '最近上架',
+          postsPerPage: 5,
+          blogSidebarCount: 10,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
