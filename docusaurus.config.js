@@ -80,7 +80,7 @@ const config = {
         title: 'goofish shop',
         logo: {
           alt: 'goofish shop',
-          src: 'img/img/docusaurus.png',
+          src: '/img/docusaurus.png',
         },
         items: [
           {
