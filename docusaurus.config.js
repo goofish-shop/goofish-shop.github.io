@@ -116,7 +116,15 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [{ name: 'keywords', content: 'goofish,goofish shop,闲鱼小铺,程序外包,技术解答,二手市场,二手交易' },
+      {
+        name: 'msvalidate.01',
+        content: '6642F3D5D5529FA5AEA94994FFA85FD9'
+      },
+      ],
+
     }),
+
   plugins: [
     [
       '@docusaurus/plugin-google-gtag',
