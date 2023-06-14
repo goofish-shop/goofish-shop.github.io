@@ -20,7 +20,7 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`欢迎 from ${siteConfig.title}`}
+      title={`欢迎 来到 ${siteConfig.title}`}
       description="欢迎来到闲鱼小铺">
       <HomepageHeader />
       <main>
