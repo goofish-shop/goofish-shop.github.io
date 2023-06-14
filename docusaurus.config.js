@@ -77,7 +77,7 @@ const config = {
         title: 'goofish shop',
         logo: {
           alt: 'goofish shop',
-          src: 'img/logo.svg',
+          src: 'img/img/docusaurus.png',
         },
         items: [
           {
