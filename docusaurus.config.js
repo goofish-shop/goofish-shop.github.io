@@ -50,6 +50,10 @@ const config = {
         googleTagManager: {
           containerId: 'G-DTZSGLTWHW',
         },
+        sitemap: {
+          changefreq: 'daily',
+          priority: 0.5,
+        },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
