@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://goofish-shop.github.io/blog</id>
+    <title>Goofish shop Blog</title>
+    <updated>2023-06-14T08:24:26.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://goofish-shop.github.io/blog"/>
+    <subtitle>Goofish shop Blog</subtitle>
+    <icon>https://goofish-shop.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[闲鱼小铺开张了 !!!]]></title>
+        <id>https://goofish-shop.github.io/blog/index</id>
+        <link href="https://goofish-shop.github.io/blog/index"/>
+        <updated>2023-06-14T08:24:26.000Z</updated>
+        <summary type="html"><![CDATA[alert('欢迎您')}>Click me!]]></summary>
+        <content type="html"><![CDATA[<button>Click me!</button>]]></content>
+        <author>
+            <name>ahKevinXy</name>
+            <email>ahkevinxy@gmail.com</email>
+            <uri>https://github.com/ahKevinXy</uri>
+        </author>
+    </entry>
+</feed>

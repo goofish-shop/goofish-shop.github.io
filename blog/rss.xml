@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Goofish shop Blog</title>
+        <link>https://goofish-shop.github.io/blog</link>
+        <description>Goofish shop Blog</description>
+        <lastBuildDate>Wed, 14 Jun 2023 08:24:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[闲鱼小铺开张了 !!!]]></title>
+            <link>https://goofish-shop.github.io/blog/index</link>
+            <guid>https://goofish-shop.github.io/blog/index</guid>
+            <pubDate>Wed, 14 Jun 2023 08:24:26 GMT</pubDate>
+            <description><![CDATA[alert('欢迎您')}>Click me!]]></description>
+            <content:encoded><![CDATA[<button>Click me!</button>]]></content:encoded>
+            <author>ahkevinxy@gmail.com (ahKevinXy)</author>
+        </item>
+    </channel>
+</rss>
