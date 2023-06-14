@@ -24,7 +24,7 @@ export default function Home(): JSX.Element {
       description="欢迎来到闲鱼小铺">
       <HomepageHeader />
       <main>
-     
+      欢迎👏🏻来到闲鱼小铺
       </main>
     </Layout>
   );
