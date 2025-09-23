@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Goofish shop',
+  title: 'Goofish Shop',
   tagline: '个人闲鱼小铺',
   favicon: '/img/favicon.ico',
 
