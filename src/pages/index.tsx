@@ -27,7 +27,7 @@ export default function Home(): JSX.Element {
     
       <main>
     <IconCloud iconSlugs={['react', 'typescript', 'docusaurus',"kuaishou","tiktok","github","wechat","xiaohongshu","goland","php","mysql","go","javascript","hugo","vite","vitepress","hexo"
-,"taobao","alipay","jd","youzan","eleme","meituan","baidu","sougou","microsoft","apple","android","linux","docker","kubernetes","nginx","redis","mongodb","graphql","prisma","vercel","netlify","cloudflare","aws","digitalocean","heroku"
+,"android","linux","docker","kubernetes","nginx","redis","mongodb","graphql","prisma","vercel","netlify","cloudflare","aws","digitalocean","heroku"
     ]}></IconCloud>
       </main>
     </Layout>
