@@ -77,9 +77,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'goofish shop',
+        title: 'Goofish Shop',
         logo: {
-          alt: 'goofish shop',
+          alt: 'Goofish Shop',
           src: '/img/docusaurus.png',
         },
         items: [
