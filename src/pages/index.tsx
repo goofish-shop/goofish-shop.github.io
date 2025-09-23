@@ -26,7 +26,7 @@ export default function Home(): JSX.Element {
        <h1 style={{textAlign: 'center',marginTop: 40}}>    欢迎👏🏻来到闲鱼小铺</h1>
     
       <main>
-    <IconCloud iconSlugs={['react', 'typescript', 'docusaurus',"kuaishou","tiktok","github","wechat","xiaohongshu","goland","php","mysql","go","javascript","hugo","vite","vitepress","hexo"
+    <IconCloud iconSlugs={['react', 'typescript', 'docusaurus',"tiktok","github","wechat","xiaohongshu","php","mysql","go","javascript","hugo","vite","vitepress","hexo"
 ,"android","linux","docker","kubernetes","nginx","redis","mongodb","graphql","prisma","vercel","netlify","cloudflare","aws","digitalocean","heroku"
     ]}></IconCloud>
       </main>
