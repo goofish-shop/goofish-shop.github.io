@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkgoofish_shop_github_io=globalThis.webpackChunkgoofish_shop_github_io||[]).push([[858],{5516:o=>{o.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
