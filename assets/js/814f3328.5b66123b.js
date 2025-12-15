@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkgoofish_shop_github_io=globalThis.webpackChunkgoofish_shop_github_io||[]).push([[472],{5513:i=>{i.exports=JSON.parse('{"title":"\u6700\u8fd1\u4e0a\u67b6","items":[{"title":"\u95f2\u9c7c\u5c0f\u94fa\u5f00\u5f20\u4e86 !!!","permalink":"/blog/index","unlisted":false,"date":"2025-12-15T16:11:06.000Z"}]}')}}]);
