@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkgoofish_shop_github_io=globalThis.webpackChunkgoofish_shop_github_io||[]).push([[947],{6600(h){h.exports=JSON.parse('{"authors":[{"name":"ahKevinXy","title":"\u4f5c\u8005","url":"https://github.com/ahKevinXy","email":"ahkevinxy@gmail.com","imageURL":"https://ahkevinxy.github.io/img/headers.png","key":"ahKevinXy","page":null,"count":1}]}')}}]);
